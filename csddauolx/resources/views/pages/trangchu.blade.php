@@ -38,12 +38,12 @@
 			                            <img class="img-responsive" src="public/upload/ttmonan/{{$tin1['Hinh']}}" alt="">
 			                        </a>
 			                        <br>
-			                        <a class="btn btn-danger" href="ttmonan/{{$tin1['id']}}/{{$tin1['TieuDeKhongDau']}}.html">Xem thêm <span class="glyphicon glyphicon-chevron-right"></span></a>
+			                        <a class="btn btn-danger" href="ttmonan/{{$tin1['id']}}/{{$tin1['TieuDeKhongDau']}}.html">More <span class="glyphicon glyphicon-chevron-right"></span></a>
 			                    </div>
 
 			                    <div class="col-md-7">
 			                        <h4>{{$tin1['TieuDe']}}</h4>
-			                        <h5>Địa chỉ: {{$tin1['TomTat']}}</h5>
+			                        <h5>Address: {{$tin1['TomTat']}}</h5>
 			                        
 								</div>
 		                	</div>
@@ -54,12 +54,12 @@
 			                            <img class="img-responsive" src="public/upload/ttmonan/{{$tin2['Hinh']}}" alt="">
 			                        </a>
 			                        <br>
-			                        <a class="btn btn-danger" href="ttmonan/{{$tin2['id']}}/{{$tin2['TieuDeKhongDau']}}.html">Xem thêm <span class="glyphicon glyphicon-chevron-right"></span></a>
+			                        <a class="btn btn-danger" href="ttmonan/{{$tin2['id']}}/{{$tin2['TieuDeKhongDau']}}.html">More<span class="glyphicon glyphicon-chevron-right"></span></a>
 			                    </div>
 
 			                    <div class="col-md-7">
 			                        <h4>{{$tin2['TieuDe']}}</h4>
-			                        <h5>Địa chỉ: {{$tin2['TomTat']}}</h5>
+			                        <h5>Address: {{$tin2['TomTat']}}</h5>
 								</div>
 		                	</div>
 		                    

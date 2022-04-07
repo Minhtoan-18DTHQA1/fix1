@@ -38,7 +38,7 @@
                             @if($u->quyen == 1)
                             {{"Admin"}}
                             @else
-                            {{"Thường"}}
+                            {{"Normal"}}
                             @endif
                         </td>
                         <td class="center"><i class="fa fa-trash-o  fa-fw"></i><a href="admin/user/xoa/{{$u->id}}"> Delete</a></td>

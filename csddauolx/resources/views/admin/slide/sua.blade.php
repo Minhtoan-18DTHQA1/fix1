@@ -31,7 +31,7 @@
 
                     <div class="form-group">
                         <label>Name</label>
-                        <input class="form-control" name="Ten" placeholder="Nhập tên slide" value="{{$slide->Ten}}" />
+                        <input class="form-control" name="Ten" value="{{$slide->Ten}}" />
                     </div>
 
                     <div class="form-group">
@@ -43,7 +43,7 @@
 
                     <div class="form-group">
                         <label>Link</label>
-                        <input class="form-control" name="link" placeholder="Nhập link" value="{{$slide->link}}"/>
+                        <input class="form-control" name="link" value="{{$slide->link}}"/>
                     </div>
 
                     <div  class="form-group">

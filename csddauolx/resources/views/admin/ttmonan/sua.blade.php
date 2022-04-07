@@ -42,7 +42,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label>Type Location</label>
+                        <label>Location Type</label>
                         <select class="form-control" name="LoaiDiaDiem" id="LoaiDiaDiem">
                             @foreach($loaidiadiem as $ldd)
                                 <option 
@@ -56,7 +56,7 @@
 
                     <div class="form-group">
                         <label>Title</label>
-                        <input class="form-control" name="TieuDe" placeholder="Nhập tiêu đề" value="{{$ttmonan->TieuDe}}" />
+                        <input class="form-control" name="TieuDe" value="{{$ttmonan->TieuDe}}" />
                     </div>
 
                     <div class="form-group">
@@ -82,7 +82,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label>Hightlights</label>
+                        <label>Highlights</label>
                         <label class="radio-inline">
                             <input name="NoiBat" value="0" checked="" 
                             @if($ttmonan->NoiBat == 0)
@@ -127,7 +127,7 @@
                         <th>ID</th>
                         <th>User</th>
                         <th>Content</th>
-                        <th>Date Submitted</th>
+                        <th>Date submitted</th>
                         <th>Delete</th>
                     </tr>
                 </thead>

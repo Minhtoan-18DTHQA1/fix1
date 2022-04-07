@@ -41,7 +41,7 @@
                         <input type="password" class="form-control password" name="password" disabled="" />
                     </div>
                     <div class="form-group">
-                        <label>Confirm password</label>
+                        <label>Confirm Password</label>
                         <input type="password" class="form-control password" name="passwordAgain" disabled="" />
                     </div>
                     <div class="form-group">

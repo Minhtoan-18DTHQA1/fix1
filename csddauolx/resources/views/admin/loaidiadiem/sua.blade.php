@@ -39,8 +39,8 @@
                         </select>
                     </div>
                     <div class="form-group">
-                        <label>Place Type Name</label>
-                        <input class="form-control" name="Ten"  value="{{$loaidiadiem->Ten}}" />
+                        <label>Tên loại địa điểm</label>
+                        <input class="form-control" name="Ten" value="{{$loaidiadiem->Ten}}" />
                     </div>
                     <button type="submit" class="btn btn-default">Fix</button>
                     <button type="reset" class="btn btn-default">New</button>

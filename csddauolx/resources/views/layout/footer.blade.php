@@ -1,26 +1,20 @@
    <!-- Footer -->
     <hr>
-    <!-- <footer class="footer"><p>&copy; {{ @date("Y") }} bởi Lê Trọng Kỳ - DPM154147 - DH16PM</p>
-   </footer> -->
-
-    <!-- Site footer -->
+    
     <footer class="site-footer">
       <div class="container">
         <div class="row">
-          <!-- <div class="col-sm-12 col-md-6">
-            <h6>About</h6>
-            <p class="text-justify">Scanfcode.com <i>CODE WANTS TO BE SIMPLE </i> is an initiative  to help the upcoming programmers with the code. Scanfcode focuses on providing the most efficient code or snippets as the code wants to be simple. We will help programmers build up concepts in different programming languages that include C, C++, Java, HTML, CSS, Bootstrap, JavaScript, PHP, Android, SQL and Algorithm.</p>
-          </div> -->
+         
 
           <div class="col-xs-6 col-md-3">
             <h6>Cv_Templates</h6>
             <ul class="footer-links">
-              <li><a href="">C</a></li>
-              <li><a href="">UI Design</a></li>
-              <li><a href="">PHP</a></li>
-              <li><a href="">Java</a></li>
-              <li><a href="">Android</a></li>
-              <li><a href="">Templates</a></li>
+              <li><a href="https://hotrinhman.github.io/HoTrinhMan-HTM_Cv_teamplate-/">Mẫn</a></li>
+              <li><a href="">Kiệt</a></li>
+              <li><a href="https://minhtoan-18dthqa1.github.io/Temlate_CV/">Toàn</a></li>
+              <li><a href="">Luân</a></li>
+              <li><a href="https://caovantiep.github.io/CaoVanTiep1708-CV/">Tiệp</a></li>
+              <li><a href="">Huy</a></li>
             </ul>
           </div>
 

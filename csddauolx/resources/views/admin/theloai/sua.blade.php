@@ -28,8 +28,8 @@
                 <form action="admin/theloai/sua/{{$theloai->id}}" method="POST">
                     <input type="hidden" name="_token" value="{{csrf_token()}}" />
                     <div class="form-group">
-                        <label>Type Name</label>
-                        <input class="form-control" name="Ten"  value="{{$theloai->Ten}}" />
+                        <label>Name Type</label>
+                        <input class="form-control" name="Ten" value="{{$theloai->Ten}}" />
                     </div>
                     <button type="submit" class="btn btn-default">Fix</button>
                     <button type="reset" class="btn btn-default">New</button>

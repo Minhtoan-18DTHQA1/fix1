@@ -27,10 +27,10 @@
                     <p>Tp Hồ Chí Minh - Việt Nam - Trái Đất </p>
 
                     <h4><span class="glyphicon glyphicon-envelope"></span> Email : </h4>
-                    <p>chungtoi@gmail.com</p>
+                    <p>Man_Kiet_Toan_Huy_Luan_Tiep@gmail.com</p>
 
                     <h4><span class="glyphicon glyphicon-phone-alt"></span> Phone : </h4>
-                    <p>035 228 3633 </p>
+                    <p>0909 999 999 </p>
 
 
 

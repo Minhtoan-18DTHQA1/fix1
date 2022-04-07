@@ -41,7 +41,7 @@
 
                     <div class="form-group">
                         <label>Link</label>
-                        <input class="form-control" name="link"  />
+                        <input class="form-control" name="link" />
                     </div>
 
                     <div  class="form-group">
